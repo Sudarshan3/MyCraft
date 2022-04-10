@@ -1,0 +1,22 @@
+dateModified: 1649507309
+email:
+  fromEmail: s.khanal147@gmail.com
+  fromName: craft
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    9c0d79db-b58f-4984-a94d-bb36326e5254: craft # craft
+    5434cf44-9a15-4247-a42d-5c90dd5dfd96: craft # craft
+    a7d4065a-341b-4421-912b-1a703b30bd2c: Common # Common
+system:
+  edition: solo
+  live: true
+  name: craft
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
